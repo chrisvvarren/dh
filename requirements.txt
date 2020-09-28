@@ -1,2 +1,6 @@
 pandas
 matplotlib
+pyzotero
+requests
+json
+requests_oauthlib
