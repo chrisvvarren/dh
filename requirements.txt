@@ -1,2 +1,2 @@
 pandas>=1.1
-random>=3.0
+random2>=1.0
