@@ -1,6 +1,5 @@
 pandas>=1.1
 random2>=1.0
-glob
-matplotlib
-spacy
+matplotlib>=3.4.1
+spacy>=2.1.8
 string
